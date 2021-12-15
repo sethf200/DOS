@@ -1,7 +1,7 @@
 import socket
 import threading
 
-print("Welcome, this is  simple Denial Of Service tool.\n\n")
+print("Welcome, this is a simple Denial Of Service tool.\n\n")
 
 target = input("Enter target IP: ")
 port = 80
