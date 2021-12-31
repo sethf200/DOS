@@ -6,6 +6,6 @@ The script most likely won't do any damage to any sites whatsoever given the ban
 
 It is purely for testing and education purposes. Have fun.
 
-'''python
-python3 dos.py
-'''
+Literally to run just:
+
+`python3 dos.py`
